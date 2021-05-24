@@ -1,5 +1,7 @@
 # Inflow
-An old school project
+An old school project that I am proud of.
+
+https://baptgrimaldi.wixsite.com/inflow
 
 This was the project of my second to last year of school ("1ére" in french).
 The concept was to do anything that has something to do with math/biology/phisics as long as it is well done and presented.
